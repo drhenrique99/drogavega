@@ -1,0 +1,8 @@
+{
+  "name": "Droga Vega",
+  "description": "Uma plataforma completa de e-commerce farmacêutico em conformidade com a RDC 44/2009 da ANVISA, incluindo sistema de afiliados sem vínculo trabalhista e dashboard administrativo.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
